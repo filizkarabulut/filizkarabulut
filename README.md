@@ -1,4 +1,4 @@
-# Hi, I'm Filiz 👋
+# Filiz Karabulut
 
 Computer Science student @ Vanderbilt University
 
