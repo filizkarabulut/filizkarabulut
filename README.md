@@ -10,8 +10,6 @@ Computer Science student @ Vanderbilt University
 
 📧 filiz.karabulut@vanderbilt.edu
 
-![Profile Views](https://komarev.com/ghpvc/?username=filizkarabulut&style=flat&label=Profile+Views)
-
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=filizkarabulut&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
