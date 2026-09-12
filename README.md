@@ -1,14 +1,13 @@
 # Filiz Karabulut
 
-Computer Science student @ Vanderbilt University
+Computer Science & Applied Mathematics @ Vanderbilt University
 
-💼 AI Engineer Intern @ Amplify GenAI Innovation Center
+AI Research Engineer Intern @ Amplify GenAI Innovation Center
 
-**Interests:** Software Engineering • Full-Stack • AI
+**Languages:** Python • Java • TypeScript • JavaScript  
+**Technologies:** AWS • OpenCV • MediaPipe
 
-**Tech:** Python • Java • JavaScript • SQL • Flask • FastAPI • AWS • Bedrock AgentCore
-
-📧 filiz.karabulut@vanderbilt.edu
+**Email:** filizkarabulutf@gmail.com
 
 ---
 
